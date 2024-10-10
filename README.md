@@ -80,7 +80,6 @@ The server will start using Nodemon, and you can access the app in your browser 
 
 ## License
 
-
 This project is licensed under the ISC License.
-```
+
 
